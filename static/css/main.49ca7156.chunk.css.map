@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAEA,MACE,iBAAkB,CAClB,QAAS,CACT,0BAA2B,CAE3B,cAAe","file":"main.49ca7156.chunk.css","sourcesContent":["// styles go here\r\n\r\n#root {\r\n  position: absolute;\r\n  left: 50%;\r\n  transform: translateX(-50%);\r\n\r\n  font-size: 24px;\r\n}\r\n"]}
